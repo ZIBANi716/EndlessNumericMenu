@@ -1,0 +1,7 @@
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\bin\Debug\Числовое меню с повтором.exe.config
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\bin\Debug\Числовое меню с повтором.exe
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\bin\Debug\Числовое меню с повтором.pdb
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\obj\Debug\Числовое меню с повтором.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\obj\Debug\Числовое меню с повтором.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\obj\Debug\Числовое меню с повтором.exe
+C:\Visual Studio Projects\Тренировочные проекты\Числовое меню с повтором\obj\Debug\Числовое меню с повтором.pdb
